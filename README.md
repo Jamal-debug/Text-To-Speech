@@ -6,4 +6,6 @@ There are several APIs available to convert text to speech in Python. One of suc
 ✅ Offline text-to-speech conversion using pyttsx3
 ✅ Adjustable speech parameters (e.g., voice type, speed)
 ✅ Multi-platform support (Windows, Linux, macOS)
+
+
 ![screenshot](https://github.com/user-attachments/assets/812e1b39-c161-4a96-bbe0-48b54df16750)
